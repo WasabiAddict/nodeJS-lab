@@ -1,0 +1,22 @@
+{
+  "name": "nodejslab",
+  "version": "1.0.0",
+  "description": "nodeJS lab",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WasabiAddict/nodeJS-lab.git"
+  },
+  "author": "David Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WasabiAddict/nodeJS-lab/issues"
+  },
+  "homepage": "https://github.com/WasabiAddict/nodeJS-lab#readme",
+  "dependencies": {
+    "request-promise": "^4.2.6"
+  }
+}
